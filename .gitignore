@@ -1,0 +1,15 @@
+.DS_Store
+*.prproj
+*.drp
+*.aep
+*.aepx
+*.blend
+*.mov
+*.mp4
+*.wav
+*.aif
+*.zip
+Media/
+Renders/
+Cache/
+Proxies/
